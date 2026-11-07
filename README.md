@@ -26,8 +26,8 @@ I'm a Computer Science student at Kwame Nkrumah University of Science and Techno
 **Java Development Intern, Oasis Infobyte**
 
 ## Featured Projects
-| Project | Description | Tools | Link |
-|---|---|---|---|
+| Project | Description | Tools |
+|---|---|---|
 | Supermarket Sales Dashboard | Interactive dashboard exploring sales by branch, date, and payment type, with a Branch slicer | Power BI |
 | Customer Churn Predictor | Ranked at-risk customer list with a methodology note | Python |
 | Fitness Tracker Dashboard | Activity and sleep insights for 100+ users | 
